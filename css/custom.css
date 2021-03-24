@@ -1,0 +1,6 @@
+/* Centrado de las categorías del sidebar*/
+.categories-column{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
